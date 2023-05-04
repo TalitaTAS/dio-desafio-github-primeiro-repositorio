@@ -2,4 +2,4 @@ https://www.git-scm.com/
 download github
 
 https://vscode.dev/
-dowload vscode
+download vscode
